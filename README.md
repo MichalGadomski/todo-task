@@ -29,5 +29,5 @@
 7. Fill "Main class" with "com.example.todotask.Main".
 8. Adjust working directory to match your needs.
 9. Fill "Use classpath of module" with "TodoTask.todotask".
-10. Run.
+10. Run.<br/>
 Remark: You can also run tests. To do this, go to TestClass (package com.example.todotask.test) and run them.
