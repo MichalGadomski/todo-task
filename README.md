@@ -22,6 +22,12 @@
   
 1. Clone this repository.
 2. In project view you should see module "todotask" which contains all needed classes.
-3. From navigation bar select configuration "todotask".
-4. Run.
-Remark: You can also run tests. To do this, select configuration "TestClass".
+3. In navigation bar click "Add Configuration".
+4. Click "+" icon to "Add New Configuration".
+5. Select "Application" type.
+6. Fill "Name" with "application".
+7. Fill "Main class" with "com.example.todotask.Main".
+8. Adjust working directory to match your needs.
+9. Fill "Use classpath of module" with "TodoTask.todotask".
+10. Run.
+Remark: You can also run tests. To do this, go to TestClass (package com.example.todotask.test) and run them.
