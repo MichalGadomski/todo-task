@@ -1,0 +1,3 @@
+include ':todotask'
+include ':app'
+rootProject.name = "TodoTask"
