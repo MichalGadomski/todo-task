@@ -62,4 +62,8 @@ It offers exemplary test methods to verify correctness of a code.
 <p>No package:</br>
 
 - class Main<br/>
-It is used to initialize and run program.
+It is used to initialize and run program.</p>
+
+<b>Files with logs</b>
+
+<p>In this repository you can find files "Log.png" and "Test_results.png". The first one displays the console output of both problems from the content of the task. The second one shows that this application passed exemplary tests.
